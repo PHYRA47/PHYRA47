@@ -6,8 +6,8 @@
 - **Chemical Engineering** 🧪: Mastered the art of balancing equations and unraveling chemical mysteries at Tianjin University, China.
 
 ### 🚀 Skills and Superpowers
-- **Coding Languages:** Python 🐍, MATLAB 🔢, SQL 🗄️, and R 📊.
-- **Tech Toolkit:** TensorFlow 🤖, OpenCV 📸, Tableau 📈, and Aspen Plus 🏭.
+- **Coding Languages:** Python 🐍, MATLAB 🔢.
+- **Tech Toolkit:** TensorFlow 🤖, OpenCV 📸.
 - **Passions:** Exploring the depths of Computer Vision 👀 and the vast universe of photonics 🌐.
 
 
