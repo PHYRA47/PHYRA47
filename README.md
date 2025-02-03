@@ -2,9 +2,9 @@
 ## 💫 Hi, I'm Fira 👋
 
 ### 🎓 Educational Journey
-- **Biometrics and Computer Vision** 👀: Immersed in projects in Biometrics and Computer Vision, leveraging advanced imaging techniques and deep learning for innovative solutions.
-- **Photonics Exploration** 🌌: Diving deep into the world of Photonics with the Erasmus Mundus Master’s PSRS Program, exploring the intricate realms of Engineering, Optics, and Computer Vision.
-- **Chemical Engineering** 🧪: Mastered the art of balancing equations and unraveling chemical mysteries at Tianjin University, China.
+- **Biometrics and Computer Vision** 👀: Working on projects in Biometrics and Computer Vision, using advanced imaging techniques and deep learning.
+- **Photonics Exploration** 🌌: Studying Photonics with the Erasmus Mundus Master’s PSRS Program, focusing on Engineering, Optics, and Computer Vision.
+- **Chemical Engineering** 🧪: Studied chemical engineering principles and techniques at Tianjin University, China.
 
 ### 🚀 Skills and Superpowers
 - **Coding Languages:** Python 🐍, MATLAB 🔢, Kotlin 📱.
