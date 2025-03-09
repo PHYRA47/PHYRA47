@@ -1,5 +1,5 @@
 
-## 💫 Hi, I'm Fira 👋
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="24px"> Hi, I'm Fira 
 
 ### 🎓 Educational Journey
 - **Biometrics and Computer Vision** 👀: Working on projects in Biometrics and Computer Vision, using advanced imaging techniques and deep learning.
